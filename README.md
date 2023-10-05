@@ -5,10 +5,15 @@ A simple quiz app built using HTML, CSS, and JavaScript. Test your programming k
 ## Features
 
 1. Choose a programming language for the quiz.
+
 2. Multiple-choice questions.
+
 3. Instant feedback on your answers.
+
 4. Keep track of your total attempts.
+
 5. Explanation for correct and incorrect answers.
+
 6. Try again if you want to improve your score.
 
 ## Uses
