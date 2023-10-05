@@ -3,12 +3,13 @@
 A simple quiz app built using HTML, CSS, and JavaScript. Test your programming knowledge by answering questions on various programming languages.
 
 ## Features
-Choose a programming language for the quiz.
-Multiple-choice questions.
-Instant feedback on your answers.
-Keep track of your total attempts.
-Explanation for correct and incorrect answers.
-Try again if you want to improve your score.
+
+1. Choose a programming language for the quiz.
+2. Multiple-choice questions.
+3. Instant feedback on your answers.
+4. Keep track of your total attempts.
+5. Explanation for correct and incorrect answers.
+6. Try again if you want to improve your score.
 
 ## Uses
 
@@ -39,5 +40,51 @@ Try again if you want to improve your score.
 7. Try Again: Users have the option to try the quiz again, providing an opportunity for improvement and reinforcing their knowledge.
 
 8. Open Source: The app is open-source and customizable, making it a great starting point for developers who want to create their own quiz applications or educational tools.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Getting started
+
+1. Clone this repository to your local machine:
+
+`git clone https://github.com/muneebali169/Basic-Quiz-App-with-HTML-CSS-and-JavaScript.git`
+
+2. Navigate to the project directory:
+
+`cd Basic-Quiz-App-with-HTML-CSS-and-JavaScript`
+
+3. Open index.html in your web browser to start the quiz.
+
+## Usage
+
+1. Launch the app by opening index.html in your web browser.
+
+2. Choose a programming language for the quiz.
+
+3. Click the "Start Quiz" button.
+
+4. Answer the multiple-choice questions by selecting the radio buttons.
+
+5. Get instant feedback on your answers.
+
+6. Keep track of your total attempts.
+
+7. Review the explanation for correct and incorrect answers.
+
+8. Click the "Next" button to move to the next question.
+
+9. Complete all questions and see your quiz result.
+
+10. Click the "Try Again" button to restart the quiz and improve your score.
+
+# Author
+
+Muneeb Ali Shahzad
+
+## Feedback and Contributions
+
+Feedback, bug reports, and contributions are welcome. Please open an issue or submit a pull request on the GitHub repository.
 
 If you have any questions related to the app, feel free to contact me at muneebalishahzad169@gmail.com.
