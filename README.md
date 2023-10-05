@@ -40,4 +40,4 @@ Try again if you want to improve your score.
 
 8. Open Source: The app is open-source and customizable, making it a great starting point for developers who want to create their own quiz applications or educational tools.
 
-If you have any questions related to the app, feel free to contact me at m05403604@gmail.com.
+If you have any questions related to the app, feel free to contact me at muneebalishahzad169@gmail.com.
