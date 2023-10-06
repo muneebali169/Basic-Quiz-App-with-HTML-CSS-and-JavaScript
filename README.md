@@ -90,7 +90,7 @@ Muneeb Ali Shahzad
 
 ## Credit
 
-- **ChatGPT (OpenAI)**: Parts of the JavaScript code generated with ChatGPT, a product of OpenAI.
+- **ChatGPT (OpenAI)**: Parts of the JavaScript code and all the questions data generated with ChatGPT, a product of OpenAI.
   - OpenAI: [https://openai.com](https://openai.com)
 
 ## Feedback and Contributions
