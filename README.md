@@ -88,6 +88,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Muneeb Ali Shahzad
 
+## Credit
+
+- **ChatGPT (OpenAI)**: Parts of the JavaScript code generated with ChatGPT, a product of OpenAI.
+  - OpenAI: [https://openai.com](https://openai.com)
+
 ## Feedback and Contributions
 
 Feedback, bug reports, and contributions are welcome. Please open an issue or submit a pull request on the GitHub repository.
